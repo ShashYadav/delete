@@ -4,3 +4,4 @@ b = int(input("Enter 2nd number: "))  # Convert the input to integer
 
 print("Addition is:", a + b)  # Fix the print statement to include a comma
 print("Substraction is:", a - b)
+print("Multipliation is:", a*b)
